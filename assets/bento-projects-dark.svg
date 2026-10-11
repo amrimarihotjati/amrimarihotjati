@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 416" width="100%">
+  <rect width="1000" height="416" rx="14" fill="#0D0F12" stroke="#242933" stroke-width="1"/>
+  
+  <!-- Structural Frame -->
+  <line x1="32" y1="0" x2="32" y2="416" stroke="#242933" stroke-width="1"/>
+  <line x1="968" y1="0" x2="968" y2="416" stroke="#242933" stroke-width="1"/>
+  <line x1="0" y1="56" x2="1000" y2="56" stroke="#242933" stroke-width="1"/>
+  
+    <line x1="28" y1="56" x2="36" y2="56" stroke="#454D5E" stroke-width="1.2"/>
+    <line x1="32" y1="52" x2="32" y2="60" stroke="#454D5E" stroke-width="1.2"/>
+    
+  
+    <line x1="964" y1="56" x2="972" y2="56" stroke="#454D5E" stroke-width="1.2"/>
+    <line x1="968" y1="52" x2="968" y2="60" stroke="#454D5E" stroke-width="1.2"/>
+    
+
+  <!-- Section Header -->
+  <text x="52" y="34" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="600" fill="#5B8DEF">[02] SELECTED PROJECTS &amp; REPOSITORIES</text>
+  <text x="310" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#999FA5">—  Production mobile apps, enterprise systems &amp; open-source repositories</text>
+
+  
+        <rect x="44" y="72" width="296" height="156" rx="12" fill="#13161B" stroke="#242933" stroke-width="1"/>
+        <rect x="62" y="90" width="146.2" height="20" rx="5" fill="#17233B" stroke="#263B63" stroke-width="1"/>
+        <text x="135.1" y="103.5" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="600" fill="#5B8DEF" text-anchor="middle">GOOGLE PLAY · FINTECH</text>
+        
+        <text x="62" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#F9F8FA">Screener Saham &amp; LoanFlow</text>
+        <text x="62" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Real-time stock technical analysis &amp; personal</text>
+        <text x="62" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">loan/expense tracker published on Play Store.</text>
+        
+        <line x1="62" y1="192" x2="322" y2="192" stroke="#242933" stroke-width="1"/>
+        <text x="62" y="212" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="500" fill="#68707A">Android Native · Kotlin/Java · Play Console</text>
+        
+        <rect x="352" y="72" width="296" height="156" rx="12" fill="#13161B" stroke="#242933" stroke-width="1"/>
+        <rect x="370" y="90" width="183.4" height="20" rx="5" fill="#1A1E26" stroke="#2A303C" stroke-width="1"/>
+        <text x="461.7" y="103.5" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="600" fill="#999FA5" text-anchor="middle">ANDROID NATIVE · E-COMMERCE</text>
+        
+        <text x="370" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#F9F8FA">Jual Beli Mobil Bekas</text>
+        <text x="370" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Used-car marketplace aggregator with smooth</text>
+        <text x="370" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">LazyVerticalGrid, remote JSON &amp; AdMob Next Gen.</text>
+        
+        <line x1="370" y1="192" x2="630" y2="192" stroke="#242933" stroke-width="1"/>
+        <text x="370" y="212" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="500" fill="#68707A">Kotlin · Jetpack Compose · Clean Arch · MVVM</text>
+        
+        <rect x="660" y="72" width="296" height="156" rx="12" fill="#13161B" stroke="#242933" stroke-width="1"/>
+        <rect x="678" y="90" width="152.4" height="20" rx="5" fill="#1A1E26" stroke="#2A303C" stroke-width="1"/>
+        <text x="754.2" y="103.5" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="600" fill="#999FA5" text-anchor="middle">SERVERLESS ANDROID APP</text>
+        
+        <text x="678" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#F9F8FA">Harga Emas Hari Ini</text>
+        <text x="678" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Daily gold price tracker powered by automated</text>
+        <text x="678" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Python scraper &amp; GitHub Actions JSON pipeline.</text>
+        
+        <line x1="678" y1="192" x2="938" y2="192" stroke="#242933" stroke-width="1"/>
+        <text x="678" y="212" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="500" fill="#68707A">Kotlin · Compose M3 · Retrofit · GitHub Actions</text>
+        
+        <rect x="44" y="240" width="296" height="156" rx="12" fill="#13161B" stroke="#242933" stroke-width="1"/>
+        <rect x="62" y="258" width="202.0" height="20" rx="5" fill="#1A1E26" stroke="#2A303C" stroke-width="1"/>
+        <text x="163.0" y="271.5" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="600" fill="#999FA5" text-anchor="middle">ANDROID NATIVE · MAPS &amp; TRAVEL</text>
+        
+        <text x="62" y="304" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#F9F8FA">Dubai Mall Maps</text>
+        <text x="62" y="326" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Luxury Dubai mall explorer with parallax detail</text>
+        <text x="62" y="343" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">sheets, transit routing &amp; indoor floor plans.</text>
+        
+        <line x1="62" y1="360" x2="322" y2="360" stroke="#242933" stroke-width="1"/>
+        <text x="62" y="380" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="500" fill="#68707A">Kotlin · Jetpack Compose · Google Maps · Coil</text>
+        
+        <rect x="352" y="240" width="296" height="156" rx="12" fill="#13161B" stroke="#242933" stroke-width="1"/>
+        <rect x="370" y="258" width="164.8" height="20" rx="5" fill="#17233B" stroke="#263B63" stroke-width="1"/>
+        <text x="452.4" y="271.5" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="600" fill="#5B8DEF" text-anchor="middle">ENTERPRISE WEB · GOVTECH</text>
+        
+        <text x="370" y="304" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#F9F8FA">SICALMERS — Kementerian PUPR</text>
+        <text x="370" y="326" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Regional infrastructure data management web</text>
+        <text x="370" y="343" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">dashboard built for the Ministry of PUPR.</text>
+        
+        <line x1="370" y1="360" x2="630" y2="360" stroke="#242933" stroke-width="1"/>
+        <text x="370" y="380" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="500" fill="#68707A">React.js · Next.js · Enterprise UI/UX</text>
+        
+        <rect x="660" y="240" width="296" height="156" rx="12" fill="#13161B" stroke="#242933" stroke-width="1"/>
+        <rect x="678" y="258" width="177.2" height="20" rx="5" fill="#1A1E26" stroke="#2A303C" stroke-width="1"/>
+        <text x="766.6" y="271.5" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="600" fill="#999FA5" text-anchor="middle">FULLSTACK &amp; CROSS-PLATFORM</text>
+        
+        <text x="678" y="304" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#F9F8FA">PempekKito &amp; Circle Platform</text>
+        <text x="678" y="326" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">Mobile ordering app &amp; Threads-like social hub</text>
+        <text x="678" y="343" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#999FA5">across Web, React Native, Laravel &amp; TypeORM.</text>
+        
+        <line x1="678" y1="360" x2="938" y2="360" stroke="#242933" stroke-width="1"/>
+        <text x="678" y="380" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="500" fill="#68707A">TypeScript · React Native · Redux · Laravel</text>
+        
+</svg>
